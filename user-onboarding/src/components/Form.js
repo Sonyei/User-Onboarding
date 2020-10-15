@@ -58,8 +58,8 @@ return (
 
 <label> Terms of Service:
 <input 
-    name='tos'
-    type='chackbox'
+    name='terms'
+    type='checkbox'
     checked={values.terms}
     onChange={onChange}
 />
